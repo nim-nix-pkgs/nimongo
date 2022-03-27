@@ -11,6 +11,7 @@
   inputs.src-nimongo-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-nimongo-v0_1_0.owner = "SSPkrolik";
   inputs.src-nimongo-v0_1_0.repo  = "nimongo";
+  inputs.src-nimongo-v0_1_0.dir   = "";
   inputs.src-nimongo-v0_1_0.type  = "github";
   
   inputs."scram".owner = "nim-nix-pkgs";
