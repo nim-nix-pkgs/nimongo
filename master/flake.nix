@@ -11,7 +11,6 @@
   inputs.src-nimongo-master.ref   = "refs/heads/master";
   inputs.src-nimongo-master.owner = "SSPkrolik";
   inputs.src-nimongo-master.repo  = "nimongo";
-  inputs.src-nimongo-master.dir   = "";
   inputs.src-nimongo-master.type  = "github";
   
   inputs."scram".owner = "nim-nix-pkgs";
