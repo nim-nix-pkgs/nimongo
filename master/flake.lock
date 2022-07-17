@@ -148,11 +148,11 @@
       },
       "locked": {
         "dir": "0_1_13",
-        "lastModified": 1658019331,
-        "narHash": "sha256-RpTMyUxwHK62ZjGIwumX3/YvcyOAswsaF39PvMjrHD8=",
+        "lastModified": 1658033230,
+        "narHash": "sha256-xNcv4wpM9WP4KGBKIDiwZcqxRBKtgrGcVnU2wOgzBEA=",
         "owner": "nim-nix-pkgs",
         "repo": "scram",
-        "rev": "05a0c7aa901435be2d00e3fd4173d04ad70235d2",
+        "rev": "938dd20b81eb86d7f3822762410103ed2e68ee26",
         "type": "github"
       },
       "original": {
